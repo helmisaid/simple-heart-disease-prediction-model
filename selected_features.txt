@@ -1,0 +1,10 @@
+age
+sex
+cp
+trestbps
+thalach
+exang
+oldpeak
+slope
+ca
+thal
